@@ -1,4 +1,4 @@
-# COGS188 Project template
+# COGS188 Breast Cancer Detector
 This is group 21's repo for the final project for COGS188
 
 Members are Byung Joon (Alex) Park, Derrick Lin, Sandra Lin, Jane Lee
